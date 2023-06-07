@@ -1,7 +1,7 @@
 # Trabalho prático 3
 
-* Nome do Aluno: ________
-* Número de Matrícula: ________
+* Nome do Aluno: Yuri Carneiro Parente
+* Número de Matrícula: 2018113160
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
 * Data da entrega: 07/06/2023
